@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yigitbstnci
-- 👀 I’m interested in Full-Stack Devolopmnet;
-- 🌱 I’m currently learning Javascript,Html,CSS
+- 👀 I’m interested ;
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on mentoring for codding.
 - 📫 How to reach me ...
 
