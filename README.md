@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yigitbstnci
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning Swift Programing
 - 📫 How to reach me ...
 
 <!---
