@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yigitbstnci
-- 🌱 I’m currently learning İOS Development
+- 🌱 I’m currently learning the fundamentals of software engineering.
 - 📫 How to reach me ...
 
 <!---
