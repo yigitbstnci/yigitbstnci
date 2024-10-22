@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yigitbstnci
+- 👋 Hi, I’m Mustafa Yiğit Bostancı
 - 🌱 I’m currently learning the fundamentals of software engineering.
 - 📫 How to reach me ...
 
